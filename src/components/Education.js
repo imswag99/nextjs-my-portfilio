@@ -65,7 +65,7 @@ const Education = () => {
           <Details
             type="X"
             time="2015-2016"
-            place="Angels’ English High School"
+            place="Angels English High School"
             info="93.8%"
           />
 
